@@ -1,0 +1,1 @@
+## This repository will contain my assignments during my interestship of AWS AI/ML at Genese Cloud Academy.
