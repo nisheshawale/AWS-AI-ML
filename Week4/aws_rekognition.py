@@ -1,7 +1,7 @@
 import boto3
-import base64
-import json
-import os
+# import base64
+# import json
+# import os
 
 
 recognition_client = boto3.client('rekognition')
